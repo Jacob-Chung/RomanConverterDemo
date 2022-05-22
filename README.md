@@ -8,7 +8,7 @@ Roman Number –   Letters used in Roman numerals and the corresponding numerica
 
 Rules:
 
-Roman numerals are usually written in highest to lowest from left to right except for some special cases where the left character is less than the right character. for example ‘IV’ is equivalent to 4 not ‘IIII’. In such cases, subtract the left character value from the right character value. ‘IV’ will be 5-1 = 4, same for ‘IX’ = 10-1 = 9. Below are the cases –
+Roman numerals are usually written in highest to lowest from left to right except for some special cases where the left character is less than the right character. for example ‘IV’ is equivalent to 4 not ‘IIII’. In such cases, subtract the left character value from the right character value. ‘IV’ will be 5-1 = 4, same for ‘IX’ = 10-1 = 9. 
 
 I can be placed before V or X, represents subtract one, so IV (5-1) = 4 and 9 is IX (10-1)=9.
 X can be placed before L or C represents subtract ten, so XL (50-10) = 40 and XC (100-10)=90.
